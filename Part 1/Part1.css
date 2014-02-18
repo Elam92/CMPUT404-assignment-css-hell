@@ -1,0 +1,87 @@
+body {
+	background-image: url('WallpaperForties0082_M.jpg');
+	text-align: center;
+}
+
+h1 {
+	font-family: "Georgia";
+	font-size: 300%;
+}
+h2 {
+	font-family: "Georgia";
+	font-size: 200%;
+}
+h3 {
+	font-family: "Georgia";
+	font-size: 120%;
+}
+pre {
+	border: 2px solid black;
+	background: rgba(255,255,255,0.5);
+	box-shadow: 15px 15px 40px rgba(0, 0, 0, 0.7);
+
+}
+
+p {
+	font-family: "Georgia";
+	font-size: 120%;
+
+	line-height: 180%;
+	text-align: center;
+}
+
+p.poem {
+	text-indent: 0%;
+  	font-size: 100%;
+  	font-style: italic;
+  }
+
+a {
+	text-align: "center";
+
+	font-family: "Georgia";
+	font-style: italic;
+}
+
+a:link {
+	color: blue;
+}
+a:visited {
+	color:purple;
+}
+a:hover	{
+	color:red;
+	font-size: 120%;
+	text-decoration: underline;
+}
+a:active {
+	color: green;
+}
+
+img {
+	width: 512px;
+	height: 512px;
+	border: 2px solid black;
+}
+table {
+	border: 2px solid black;
+	background: rgba(255, 255, 255, 0.85);
+	text-align: center;
+	font-family: "Georgia";
+}
+
+.book {
+	border: 2px solid black;
+	background: rgba(255,255,255,0.75);
+	box-shadow: 15px 15px 40px rgba(0, 0, 0, 0.7);
+
+	padding: 10px;
+
+}
+
+.centerH {
+	position: relative;
+	left: 50%;
+	margin-left: -400px;
+	width: 800px;
+}

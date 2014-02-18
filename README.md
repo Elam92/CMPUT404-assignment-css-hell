@@ -22,3 +22,19 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 Code is licensed under the Apache 2.0 license.
 
 
+Changes/Updates
+=================
+Part1:
+	-Background image for body is from cgtextures.com (http://www.cgtextures.com/texview.php?id=22073&PHPSESSID=jsrk9b1020r37o4r9n48j21sn6).
+
+	-Updated each HTML file with a link to the CSS file.
+	-Updated each HTML file with a div tag.
+	-Removed The Picture of Dorian Gray's CSS style in its HTML file.
+
+Part2:
+	-Background image for top header is from cgtextures.com (http://www.cgtextures.com/texview.php?id=14121&PHPSESSID=jsrk9b1020r37o4r9n48j21sn6).
+
+
+
+
+
