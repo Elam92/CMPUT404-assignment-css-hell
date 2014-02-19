@@ -1,0 +1,105 @@
+body {
+	background-color: rgb(255,255,255);
+	font-family: "Comic Sans MS";
+	color: rgb(66,66,66);
+	text-align: "center";
+}
+a {
+	font-size: 125%;
+	text-align: center;
+	text-decoration: none;
+	line-height: -50px;
+}
+a:link {
+	color: black;
+}
+a:visited {
+	color: black;
+}
+a:hover	{
+	color:red;
+}
+a:active {
+	color: rgb(0,101,153);
+}
+h1 {
+	font-size: 200%;
+}
+
+ul {
+  	height: auto;
+    padding: 8px 0px;
+    margin: 0px;
+}
+li {
+	display: inline;
+	padding: 20px;
+	color: white;
+	font-family: "Comic Sans MS";
+	font-size: 200%;
+	text-shadow: 2px 2px 2px rgba(255,255,255,0.8);
+}
+
+.button {
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgb(255,211,2)), color-stop(100%,rgb(253,124,7)));
+	font-family: "Comic Sans MS";
+	width: 120px;
+	height: 50px;
+	position: relative;
+	float: left;
+	border: 1px solid black;
+
+}
+.container {
+	width: 1000px;
+	position: relative;
+	left: 50%;
+	margin-left: -500px;
+}
+
+.main {
+	background-color: rgb(255, 255, 255);
+	width: 1000px;
+	height: 100%;
+	position: relative;
+}
+
+.menu {
+	width: 488px;
+	height: 50px;
+	position: absolute;
+	top: 40%;
+	left: 50%;
+	margin-left: -244px;
+	text-align: center;
+	z-index: 1;
+}
+
+.middle {
+	width: 1000px;
+	height: 300px;
+	line-height: 200px;
+	position: relative;
+	background: -webkit-radial-gradient(rgb(3,114,255), rgb(13, 73, 255), rgb(17, 47,203));
+	background: -moz-radial-gradient(rgb(3,114,255), rgb(13, 73, 255), rgb(17,47,203));
+	background: radial-gradient(rgb(3,114,255), rgb(13, 73, 255), rgb(17,47,203));
+}
+
+.name {
+	text-align: center;
+	font-size: 500%;
+	background: -webkit-linear-gradient(left, rgb(255, 242, 0), rgb(237, 166, 0), rgb(185, 20, 63), rgb(31, 2, 152)); /* For Safari */
+	
+	color: yellow;
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+
+.rightside {
+	background-color: rgb(255, 204, 0);
+	width: 200px;
+	position: relative;
+	float: right;
+	margin: 10px;
+	text-align: center;
+}

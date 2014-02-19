@@ -57,16 +57,17 @@ li {
 	text-align: center;
 }
 
-.menuItem:hover {
-	background: linear-gradient(#FF00FF, #FFFFFF);
-}
-
 .middle {
 	width: 1000px;
 	height: 200px;
 	line-height: 200px;
 	position: relative;
-	background-image: -webkit-gradient(linear, left top, left bottom, 
+	background: -webkit-gradient(linear, left top, left bottom, 
+					color-stop(0%,rgb(23,125,187)), 
+					color-stop(50%,rgb(0,101,153)), 
+					color-stop(100%,rgb(23,125,187)));
+	background: -moz-linear-gradient(90deg, rgb(23,125,187) 0%, rgb(0,101,153) 50%, rgb(23,125,187) 100%);
+	background: linear-gradient(linear, left top, left bottom, 
 					color-stop(0%,rgb(23,125,187)), 
 					color-stop(50%,rgb(0,101,153)), 
 					color-stop(100%,rgb(23,125,187)));
