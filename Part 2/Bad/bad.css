@@ -44,11 +44,10 @@ ul.list {
 
 ul {
   	height: auto;
-    padding: 8px 0px;
     margin: 0px;
 }
 li {
-	color: white;
+	color: green;
 	font-family: "Comic Sans MS";
 	font-size: 100%;
 	padding-left: 5px;
