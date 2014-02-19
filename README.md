@@ -33,6 +33,12 @@ Part1:
 
 Part2:
 	-Background image for top header is from cgtextures.com (http://www.cgtextures.com/texview.php?id=14121&PHPSESSID=jsrk9b1020r37o4r9n48j21sn6).
+	-The HTML itself is only slightly altered between the two versions (in particular the menu bar),
+	in order to make the webpages look like The Oatmeal's designs.
+
+References:
+	-http://www.w3schools.com/css/
+	-http://theoatmeal.com/comics/design_hell
 
 
 
