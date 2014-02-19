@@ -63,6 +63,10 @@ img {
 	height: 512px;
 	border: 2px solid black;
 }
+
+figure {
+	font-weight: italic;
+}
 table {
 	border: 2px solid black;
 	background: rgba(255, 255, 255, 0.85);

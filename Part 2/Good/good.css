@@ -22,12 +22,36 @@ h1 {
 	font-size: 200%;
 }
 
-ul {
+h3 {
+	text-align: center;
+}
+
+img {
+	width: 200px;
+	height: 256px;
+	margin: 10px;
+	border: 2px solid black;
+	float: left;
+}
+p {
+	line-height: 50px;
+	padding: 10px;
+}
+p.list {
+	text-align: center;
+	margin: 10px;
+}
+
+ul.list {
+	text-align: left;
+}
+
+ul.menu {
   	height: auto;
     padding: 8px 0px;
     margin: 0px;
 }
-li {
+li.menu {
 	display: inline;
 	padding: 20px;
 	color: white;
@@ -101,4 +125,5 @@ li {
 	z-index: 1;
 	text-align: center;
 	font-size: 80%;
+	overflow: hidden;
 }
